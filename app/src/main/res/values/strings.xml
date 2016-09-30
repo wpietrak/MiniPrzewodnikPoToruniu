@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mini Przewodnik po Toruniu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_monument_detail">Szczegółowe informacje o zabytkach</string>
+    <string name="title_monument_recycler_view">Kliknij aby dowiedzieć się więcej</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_people_recycler_view">Lista znanych torunian</string>
+    <string name="title_people_detail">informacje szczegółowe</string>
+    <string name="title_date_recycler_view">Lista najważniejszych dat</string>
+    <string name="title_date_detail">Szczegóły</string>
+    <string name="info_name">Najważniejsze informacie o Toruniu</string>
+    <string name="text_info">miasto na prawach powiatu w województwie kujawsko-pomorskim. Prawobrzeżna część miasta leży na Pomorzu[3], lewobrzeżna część położona jest na Kujawach. Miasto leży nad Wisłą i Drwęcą.  Siedziba marszałka województwa kujawsko-pomorskiego[4], siedziba organów samorządu województwa, czyli Zarządu Województwa Kujawsko-Pomorskiego, Kujawsko-Pomorskiego Sejmiku Wojewódzkiego oraz jednostek wojewódzkich im podporządkowanych, a także siedziba starosty powiatu toruńskiego. Jest również jednym z miast centralnych Bydgosko-Toruńskiego Obszaru Funkcjonalnego[5]. Stolica diecezji toruńskiej.  Jest jednym z najstarszych miast Polski (prawa miejskie uzyskał w 1233 roku[6]). W czasach Rzeczypospolitej Obojga Narodów Toruń był jednym z największych i najbogatszych miast, miastem królewskim i hanzeatyckim, posiadającym autonomiczne uprawnienia polityczne, w tym m.in. prawo do czynnego uczestnictwa w akcie wyboru króla[7]. Obecnie szesnaste pod względem liczby ludności miasto w kraju (203 158 mieszkańców wg GUS z 31 grudnia 2014). Miasto jest dużym ośrodkiem gospodarczym, kulturalnym, naukowym, akademickim i turystycznym oraz węzłem drogowym i kolejowym. Miejsce urodzenia Mikołaja Kopernika.  W 1997 roku toruński średniowieczny zespół miejski został wpisany na Listę Światowego Dziedzictwa Kulturowego UNESCO, a od 2004 roku Toruń jest ogólnopolską siedzibą Ligi Polskich Miast UNESCO.  Patronem Torunia jest św. Jan Chrzciciel. Święto miasta jest obchodzone 24 czerwca[8].</string>
+</resources>
