@@ -7,6 +7,8 @@ package pl.wojciechpietrak.miniprzewodnikpotoruniu;
 public class CheckUpClass {
     int a;
     String b;
+    String c;
+
 
 }
 
