@@ -7,20 +7,33 @@ public class People {
     private String info;
 
     public static People[] peoples = {
-            new People("Mikołaj Kopernik", "(Nicolaus Copernicus; 1473-1543) - astronom, matematyk, ekonomista, lekarz, duchowny - wszechstronny człowiek Renesansu; największy i najbardziej znany torunianin.",
+            new People("Mikołaj Kopernik", "Nicolaus Copernicus 1473-1543 można go określić mianem człowieka renesansu był m.in.: " +
+                    "  astronomem, matematykiem, ekonomistom, lekarzem, duchownym. Najbardziej znany torunianin.",
                     R.drawable.mikolaj_kopernik,
-                    "autor dzieła De revolutionibus orbium coelestium (O obrotach sfer niebieskich)[d] przedstawiającego szczegółowo i w naukowo użytecznej formie heliocentryczną wizję Wszechświata. Wprawdzie koncepcja heliocentryzmu pojawiła się już w starożytnej Grecji (jej twórcą był Arystarch z Samos[1]), to jednak dopiero dzieło Kopernika dokonało przełomu i wywołało jedną z najważniejszych rewolucji naukowych od czasów starożytnych, nazywaną przewrotem kopernikańskim[2].\n" +
-                            "\n" +
-                            "Był renesansowym polihistorem, poza astronomią zajmował się również matematyką, prawem, ekonomią, strategią wojskową, astrologią[3], był także lekarzem oraz tłumaczem.\n" +
-                            "\n" +
-                            "Od 1495 kanonik warmiński, od 1503 scholastyk wrocławski, a od 1510 kanclerz kapituły warmińskiej."),
+                    "Jest autorem dzieła De revolutionibus orbium coelestium (O obrotach sfer niebieskich) przedstawiającego szczegółowo " +
+                            "i w naukowo użytecznej formie heliocentryczną wizję Wszechświata. " +
+                            "Wprawdzie koncepcja heliocentryzmu znana była już w starożytnej Grecji, to jednak dopiero dzieło " +
+                            "Kopernika dokonało przełomu i wywołało jedną z najważniejszych rewolucji naukowych od czasów starożytnych, " +
+                            "nazywaną przewrotem kopernikańskim." ),
     new  People("Samuel Bogumił Linde"," twórca pierwszego 6-tomowego Słownika Języka Polskiego o charakterze historycznym. Urodził się w nieistniejącej już kamienicy przy ul. Małe Garbary 2 na Nowym Mieście.",
            R.drawable.bogumil_linde,
            "\n" +
-                   "Linde urodził się w nieistniejącej dziś kamienicy przy ul. Małe Garbary 2. Dziś w tym miejscu stoi XIX-wieczny budynek, na którym umieszczono tablicę pamiątkową jemu poświęconą. Linde ma także swój pomnik stojący od 1976 roku przed gmachem Książnicy Kopernikańskiej przy ul. Słowackiego. Poza tym jego imię nosi jedna z ulic na Bydgoskim Przedmieściu, III Liceum Ogólnokształcące, a także Nagroda Literacka Miast Partnerskich Torunia i Getyngi przyznawana litearatom w czasie Toruńskiego Festiwalu Książki odbywającego się corocznie w listopadzie.\n" +
+                   "Linde urodził się w nieistniejącej dziś kamienicy przy ul. Małe Garbary 2. " +
+                   "Dziś w tym miejscu stoi XIX-wieczny budynek, na którym umieszczono tablicę pamiątkową jemu poświęconą. " +
+                   "Linde ma także swój pomnik stojący od 1976 roku przed gmachem Książnicy Kopernikańskiej przy ul. Słowackiego. " +
+                   "Poza tym jego imię nosi jedna z ulic na Bydgoskim Przedmieściu, III Liceum Ogólnokształcące, " +
+                   "a także Nagroda Literacka Miast Partnerskich Torunia i Getyngi przyznawana litearatom w czasie " +
+                   "Toruńskiego Festiwalu Książki odbywającego się corocznie w listopadzie.\n" +
                    "\n" +
-                   "Samuel Bogumił Linde był twórcą pierwszego, 6-tomowego Słownika Języka Polskiego o charakterze historycznym, zawierającego 60 tysięcy haseł z zestawu druków i języka potocznego. To wybitne osiągnięcie nauki polskiej doby oświecenia po raz pierwszy zostało opublikowane w latach 1807-1814.\n" +
-                   "Linde studiował teologię, filozofię i języki orientalne na uniwersytecie w Lipsku, gdzie w 1791 roku został lektorem języka polskiego. Jako zaufany człowiek, bibliotekarz i współpracownik w latach 1795-1803 zajmował się gromadzeniem zbiorów bibliotek Józefa Maksymiliana Ossolińskiego, co pozwala uznać go za współtwórcę jednej z najznakomitszych polskich bibliotek - Ossolineum. W 1804 roku przyjął rektorat utworzonego Liceum Warszawskiego. Działalność publiczna Lindego miała charakter polityczny, oświatowy, naukowy i bibliofilski. Był m.in. członkiem Izby Edukacyjnej kierującej sprawami oświaty Księstwa Warszawskiego, radcą Komisji Rządowej Wyznań Religijnych i Oświecenia Publicznego, jednym z organizatorów i pierwszych wykładowców Uniwersytetu Warszawskiego. Jego działalność naukowa i wydawnicza koncentrowała się wokół prac o charakterze słownikowym, bibliograficznym oraz z zakresu językoznawstwa, dziejów piśmiennictwa i przekładów. W 1844 roku otrzymał tytuł Honorowego Obywatela Miasta Torunia."),
+                   "Samuel Bogumił Linde był twórcą pierwszego, 6-tomowego Słownika Języka Polskiego o charakterze historycznym, " +
+                   "zawierającego 60 tysięcy haseł z zestawu druków i języka potocznego. " +
+                   "To wybitne osiągnięcie nauki polskiej doby oświecenia po raz pierwszy zostało opublikowane w latach 1807-1814.\n" +
+                   "Linde studiował teologię, filozofię i języki orientalne na uniwersytecie w Lipsku, gdzie w 1791 roku został " +
+                   "lektorem języka polskiego. Jako zaufany człowiek, bibliotekarz i współpracownik w latach 1795-1803 zajmował " +
+                   "się gromadzeniem zbiorów bibliotek Józefa Maksymiliana Ossolińskiego, co pozwala uznać go za " +
+                   "współtwórcę jednej z najznakomitszych polskich bibliotek - Ossolineum. W 1804 roku przyjął " +
+                   "rektorat utworzonego Liceum Warszawskiego. Działalność publiczna Lindego miała charakter " +
+                   "polityczny, oświatowy, naukowy i bibliofilski. Był m.in. członkiem Izby Edukacyjnej kierującej sprawami oświaty Księstwa Warszawskiego, radcą Komisji Rządowej Wyznań Religijnych i Oświecenia Publicznego, jednym z organizatorów i pierwszych wykładowców Uniwersytetu Warszawskiego. Jego działalność naukowa i wydawnicza koncentrowała się wokół prac o charakterze słownikowym, bibliograficznym oraz z zakresu językoznawstwa, dziejów piśmiennictwa i przekładów. W 1844 roku otrzymał tytuł Honorowego Obywatela Miasta Torunia."),
 
     new  People("Tony Halik","(1921-1998) - dziennikarz, podróżnik, autor książek podróżniczych i około 300 filmów dokumentalnych.",
            R.drawable.tony_halik,

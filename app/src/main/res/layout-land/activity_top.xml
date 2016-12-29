@@ -4,8 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 android:orientation="vertical"
-    android:background="@drawable/tlo_top"
-    tools:context="pl.wojciechpietrak.miniprzewodnikpotoruniu.TopActivity">
+    android:background="#6666CC">
+    <!--android:background="@drawable/tlo_top"-->
+    <!--tools:context="pl.wojciechpietrak.miniprzewodnikpotoruniu.TopActivity">-->
     <TextView
         android:id="@+id/text_top"
         android:layout_row="0"
